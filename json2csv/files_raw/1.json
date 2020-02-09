@@ -1,0 +1,265 @@
+{
+  "remainTimes": -1,
+  "msg": "查询成功",
+  "result": {
+    "code": 0,
+    "resultData": [
+      {
+        "probability": 0.5559398531913757,
+        "location": {
+          "x": 12,
+          "width": 1053,
+          "y": 220,
+          "height": 151
+        },
+        "text": "(2016)陕0104民初5202号"
+      },
+      {
+        "probability": 0.1944337636232376,
+        "location": {
+          "x": 57,
+          "width": 1090,
+          "y": 2335,
+          "height": 104
+        },
+        "text": "(2015)舟者商初字第1268号"
+      },
+      {
+        "probability": 0.4257444739341736,
+        "location": {
+          "x": 49,
+          "width": 1017,
+          "y": 2013,
+          "height": 127
+        },
+        "text": "2017)苏0106民初8327号"
+      },
+      {
+        "probability": 0.5290646553039551,
+        "location": {
+          "x": 27,
+          "width": 1039,
+          "y": 1024,
+          "height": 136
+        },
+        "text": "(2016)陕0104民初5207号"
+      },
+      {
+        "probability": 0.7845677733421326,
+        "location": {
+          "x": 13,
+          "width": 1051,
+          "y": 350,
+          "height": 115
+        },
+        "text": "(2016)陕0104民初5214号"
+      },
+      {
+        "probability": 0.8807488679885864,
+        "location": {
+          "x": 16,
+          "width": 1046,
+          "y": 456,
+          "height": 138
+        },
+        "text": "(2016)陕0104民初5215号"
+      },
+      {
+        "probability": 0.009943701326847076,
+        "location": {
+          "x": 47,
+          "width": 1006,
+          "y": 1359,
+          "height": 113
+        },
+        "text": "C16)陕0104民初55号"
+      },
+      {
+        "probability": 0.00820317491889,
+        "location": {
+          "x": 26,
+          "width": 1037,
+          "y": 1259,
+          "height": 104
+        },
+        "text": "2016)陕民预5193号"
+      },
+      {
+        "probability": 0.7200398445129395,
+        "location": {
+          "x": 709,
+          "width": 353,
+          "y": 914,
+          "height": 120
+        },
+        "text": "5195号"
+      },
+      {
+        "probability": 0.03809097409248352,
+        "location": {
+          "x": 31,
+          "width": 1030,
+          "y": 1135,
+          "height": 130
+        },
+        "text": "2016)国0603民视1054号"
+      },
+      {
+        "probability": 0.044589780271053314,
+        "location": {
+          "x": 43,
+          "width": 1104,
+          "y": 1579,
+          "height": 111
+        },
+        "text": "(2015)阳民初子第597号"
+      },
+      {
+        "probability": 0.27125099301338196,
+        "location": {
+          "x": 40,
+          "width": 1022,
+          "y": 1795,
+          "height": 139
+        },
+        "text": "2016)云9322民初1232号"
+      },
+      {
+        "probability": 0.07221351563930511,
+        "location": {
+          "x": 36,
+          "width": 1025,
+          "y": 573,
+          "height": 126
+        },
+        "text": "(2016)陕0104民视5200号"
+      },
+      {
+        "probability": 0.03409573808312416,
+        "location": {
+          "x": 62,
+          "width": 994,
+          "y": 2227,
+          "height": 105
+        },
+        "text": "(2016)|间0803民初1160号"
+      },
+      {
+        "probability": 0.05280354619026184,
+        "location": {
+          "x": 44,
+          "width": 968,
+          "y": 1476,
+          "height": 98
+        },
+        "text": "2014泽商初子第104号"
+      },
+      {
+        "probability": 0.01849956065416336,
+        "location": {
+          "x": 43,
+          "width": 976,
+          "y": 1696,
+          "height": 97
+        },
+        "text": "C0崇民二初子第"
+      },
+      {
+        "probability": 0.6079443693161011,
+        "location": {
+          "x": 68,
+          "width": 991,
+          "y": 2436,
+          "height": 118
+        },
+        "text": "(2017)珀0181民初2227号"
+      },
+      {
+        "probability": 0.0007816844736225903,
+        "location": {
+          "x": 60,
+          "width": 989,
+          "y": 2655,
+          "height": 97
+        },
+        "text": "2015)安民有字佛配4号"
+      },
+      {
+        "probability": 0.00004775946945301257,
+        "location": {
+          "x": 16,
+          "width": 1031,
+          "y": 698,
+          "height": 97
+        },
+        "text": "感00104民视5205"
+      },
+      {
+        "probability": 0.0002462613338138908,
+        "location": {
+          "x": 61,
+          "width": 1005,
+          "y": 2550,
+          "height": 105
+        },
+        "text": "(四017)琨011品预545"
+      },
+      {
+        "probability": 0.4507749080657959,
+        "location": {
+          "x": 24,
+          "width": 1037,
+          "y": 803,
+          "height": 106
+        },
+        "text": "(2016)陕0104民初5210号"
+      },
+      {
+        "probability": 0.002209026599302888,
+        "location": {
+          "x": 61,
+          "width": 953,
+          "y": 2862,
+          "height": 96
+        },
+        "text": "口016)号02民555号"
+      },
+      {
+        "probability": 0.7439713478088379,
+        "location": {
+          "x": 54,
+          "width": 1005,
+          "y": 2757,
+          "height": 103
+        },
+        "text": "(2015)安民初字第6246号"
+      },
+      {
+        "probability": 0.05571383982896805,
+        "location": {
+          "x": 6,
+          "width": 198,
+          "y": 152,
+          "height": 61
+        },
+        "text": "国通"
+      },
+      {
+        "probability": 0.9916582703590393,
+        "location": {
+          "x": 754,
+          "width": 89,
+          "y": 35,
+          "height": 76
+        },
+        "text": ""
+      }
+    ],
+    "message": "success",
+    "request_id": "d219596ffa637ee9410970d5e6107c14"
+  },
+  "code": "10000",
+  "charge": false,
+  "remain": 0,
+  "remainSeconds": -1
+}

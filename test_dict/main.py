@@ -1,5 +1,5 @@
-from collections import defaultdict
 
+from collections import  defaultdict
 
 
 
@@ -14,8 +14,20 @@ def  testDefaultDict():
     #print(my_dict['a'])  # KeyError
 
 
+def test2():
+    d = {'a': 1, 'b': [], 'c': []}
+    a = 111
+    default_d = defaultdict(a.__int__, d)
+    print(default_d)
+    print(default_d['a'])
+    print(default_d['absd'])
 
 
+#dict keys 这个东西可以直接用&做交集，和集合差不多
+def test_key_intersect():
+    d1 = {'a':1,'b':2}
+    d2 = {'b':2, 'c':3}
+    print(d1.keys()&d2.keys())
 
 if __name__ == "__main__":
-    testDefaultDict()
+    test_key_intersect()

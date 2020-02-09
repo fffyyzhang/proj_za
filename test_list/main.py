@@ -24,5 +24,9 @@ def testListEqual():
     d=1
 
 
+def testJoin():
+    l = ['a', 'b']
+    print(','.join(l))
+
 if __name__ == "__main__":
-    testListEqual()
+    testJoin()

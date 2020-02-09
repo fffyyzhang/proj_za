@@ -62,14 +62,27 @@ def testSum():
 
 
 
+def testRandomSeed():
+    arr = np.array(range(100))
+    from numpy.random import RandomState
+    np.random.seed(RandomState(1234567890))
+    #np.random.set_state(1234)
+    np.random.shuffle(arr)
+    print(arr)
+    #np.random.seed(1234)
+    np.random.shuffle(arr)
+
+    print(arr)
 
 
 
-
-
-
-
+def test_col_assign():
+    arr = np.zeros((5,5))
+    import  pandas as pd
+    df = pd.DataFrame(np.ones((5,5)), columns=['1','2', '3', '4', '5'])
+    arr[:, 2] = df['3'].values
+    d=1
 
 
 if __name__ == "__main__":
-    testSum()
+    test_col_assign()
